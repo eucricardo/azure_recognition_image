@@ -5,11 +5,11 @@ from PIL import Image
 from io import BytesIO
 
 #Inserir em subscription key, a chave da assinatura da conta Azure Visão Computacional.
-subscription_key = "a01136c2a2574134ae4ac9257c72cbaf"
+subscription_key = 
 assert subscription_key
 
 
-vision_base_url = "https://westcentralus.api.cognitive.microsoft.com/vision/v2.0/"
+vision_base_url = 
 
 ocr_url = vision_base_url + "ocr"
 
